@@ -1,3 +1,5 @@
-SQL
+SQL - 1
 
-TODO
+* Writing case statements with aggregate function
+Input Data:
+
